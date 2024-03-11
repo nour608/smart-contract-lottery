@@ -1,1 +1,1 @@
-
+## Simple smart contract Lottery
